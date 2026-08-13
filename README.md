@@ -1,16 +1,26 @@
-## Hi there 👋
+# ⚡ Anthony Tosi
+**Founder & Lead Architect @ [ProtocolPrime](https://protocolprime.ai)**
 
-<!--
-**atosi-ProtocolPrime/atosi-ProtocolPrime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building intelligent tools for complex workflows. I specialize in full-stack automation, AI agent architecture, and solving complex program management bottlenecks through code. 
 
-Here are some ideas to get you started:
+Currently based in Denver, Colorado. 🏔️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I'm Building
+* **PrimeConnect:** Architecting foundational AI agent workflows and edge computing backends using Cloudflare Workers and the Model Context Protocol (MCP).
+* **PrimeCapture:** Intelligent automation bridges and visual data pipelines built to eliminate manual overhead.
+* **PrimeTrack:** Custom project dashboards and intelligent tracking architecture.
+
+### 🛠️ Tech Stack & Toolkit
+* **Languages:** TypeScript, Python, JavaScript
+* **Frontend:** React, Tailwind CSS
+* **Backend & Edge:** Cloudflare Workers, Node.js, APIs
+* **AI & Architecture:** Model Context Protocol (MCP), LLM Prompt Engineering, Agentic Workflows
+
+### 📬 Connect
+* **Email:** [atosi@protocolprime.ai](mailto:atosi@protocolprime.ai)
+* **Website:** [protocolprime.ai](https://protocolprime.ai)
+
+---
+*"Automate the mundane. Architect the future."*
