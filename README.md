@@ -37,28 +37,23 @@ I maintain **ProtocolPrime** as a hands-on engineering lab to experiment with **
 
 ## 🧰 Technical Stack & Core Competencies
 
-```text
-┌────────────────────────────────────────────────────────────────────────────────────┐
-│  PROGRAM & QUALITY GOVERNANCE                                                      │
-│  • Technical Program Management (TPM)    • Engineering & QA Line Management        │
-│  • Global Release Readiness (94 Markets) • AI Ground Truth & HITL Operations       │
-│  • Internationalization (i18n / Unicode) • OKR / KPI Portfolio Telemetry           │
-├────────────────────────────────────────────────────────────────────────────────────┤
-│  LANGUAGES, FRAMEWORKS & INFRASTRUCTURE                                            │
-│  • Python (FastAPI, OpenCV, Selenium)    • JavaScript / TypeScript (React, Vite)   │
-│  • Tailwind CSS (Obsidian Design System) • Google Cloud Firebase / Firestore       │
-│  • Cloudflare Pages & Edge Workers       • Android Debug Bridge (ADB) / UIAutomator│
-├────────────────────────────────────────────────────────────────────────────────────┤
-│  APPLIED AI & WORKFLOW AUTOMATION                                                  │
-│  • Multimodal LLM APIs (Gemini / Claude) • Agentic Development (Copilot / Claude)  │
-│  • REST API Data-Routing Bridges         • Automated Visual Regression Auditing    │
-└────────────────────────────────────────────────────────────────────────────────────┘
+| Domain | Core Capabilities & Technologies |
+| :--- | :--- |
+| **Program & Quality Governance** | `Technical Program Management (TPM)` `Engineering & QA Line Management` `Global Release Readiness (94 Markets)` `AI Ground Truth & HITL Operations` `Internationalization (i18n / Unicode)` `OKR & KPI Portfolio Telemetry` |
+| **Languages, Frameworks & Cloud** | `Python` `FastAPI` `OpenCV` `Selenium` `JavaScript / TypeScript` `React` `Vite` `Tailwind CSS` `Google Cloud Firebase / Firestore` `Cloudflare Pages & Workers` `ADB / UIAutomator` |
+| **Applied AI & Automation** | `Multimodal LLM APIs (Gemini / Claude)` `Agentic Development (GitHub Copilot / Claude Code)` `REST API Data-Routing Bridges` `Automated Visual Regression Auditing` |
 
-🎓 Background & Credentials
-Experience: 12+ Years across RWS Group (Embedded Strategic Partner to Google Consumer Apps & Google Stadia) and Accenture (Embedded at Google Assistant).
+---
 
-Education: B.A. in Linguistics, with Honors (Minors: English, Russian) — Université de Lorraine (Nancy, France) | Focus: Structural Logic, Syntax/Semantics, and Computational Linguistics.
+## 🎓 Background & Credentials
 
-Languages: French (Native), English (Bilingual), Russian (Foundational).
+* **Experience:** 12+ Years across **RWS Group** *(Embedded Strategic Partner to Google Consumer Apps & Google Stadia)* and **Accenture** *(Embedded at Google Assistant)*.
+* **Education:** **B.A. in Linguistics, with Honors** (Minors: English, Russian) — *Université de Lorraine (Nancy, France)* | Focus: Structural Logic, Syntax/Semantics, and Computational Linguistics.
+* **Languages:** French (Native), English (Bilingual), Russian (Foundational).
+* **Location:** Denver / Boulder Metropolitan Area, CO (Open to Remote & Hybrid).
 
-Location: Denver / Boulder Metropolitan Area, CO (Open to Remote & Hybrid).
+---
+
+<div align="center">
+  <sub>Designed & maintained by <b>Anthony Tosi</b> • Built with the ProtocolPrime Design System (Obsidian Slate <code>#1A1A1D</code> • Electric Amethyst <code>#9F5AFD</code> • Cyber Teal <code>#00E5FF</code>)</sub>
+</div>
